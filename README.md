@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Manav Dahra. 
   My interest lies in problem solving, math and logical reasoning. To me software engineering is an application of those analytical skills sprinkled with creativity.
-  During the times when I am more curious, I like to spend my time peeking on how things work under the hood and possibly borrow some ingenious ideas to apply into my work.
+  During the times when I am more curious, I like to spend my time peeking on how things work under the hood and possibly borrow some ingenious ideas (possibly apply them where ever possible).
 - I’m always interested in anything that is novel and challenging.
 - Currently I'm transitioning into the next phase of my career where I am diving deeper into how databases and distributed systems work. 
   I'm also brushing up my DS and Algo skills but with more wisdom now. I'm aiming to develop a more holistic and finer outlook on computer science.
